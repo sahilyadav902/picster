@@ -1,4 +1,5 @@
-# Picster (Responsive Full Stack Social Media App for Sharing Images)
+# Picster
+(Responsive Full Stack Social Media App for Sharing Images)
 ![Picster](https://i.ibb.co/w4bZ3W5/Picster.png)
 
 ## Tech Stack Used
