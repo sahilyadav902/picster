@@ -7,5 +7,6 @@
 Mapbox, React.js, Node.js, Express.js, MongoDB, Mongoose, CSS, HTML
 
 ## Description
-A responsive full‑stack web application to navigate the world map to create pins, where users can share their reviews and ratings for
-different places. The app provides user registration and authentication features to create and view all the pins.
+A responsive full‑stack social media web application that provides users with a platform to share images belonging to various categories
+and uses a masonry layout to display the images. Users can create/delete their own pins and also view, download, search, and save pins
+created by any user. Users can register and login to the app using their Google account.
